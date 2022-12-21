@@ -5,6 +5,7 @@ Author       : Valeria Alejandra Parraga Muñoz
 Creation date: October 2020
 
 1.  Description
+
 ==============
 
 In this project we (Andrea Ochoa and Valeria Parraga) build a program helps the user to analyze a data set
