@@ -14,6 +14,7 @@ The user can choose to analyze by song, artist or year
 
 
 2.  Directory structure
+
 ======================
 
 -Data
